@@ -1,6 +1,6 @@
 # BCS_Classwork_JavaScript-Challenge
 
-![mission_to_mars](Images/mission_to_mars.png)
+![static](images/nasa.jpg)
 
 ## Background
 
