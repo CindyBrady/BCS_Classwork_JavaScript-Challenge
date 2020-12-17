@@ -1,6 +1,6 @@
 # BCS_Classwork_JavaScript-Challenge
 
-![nasa.jpg](images/nasa.jpg)
+![nasa.jpg](static/images/nasa.jpg)
 
 ## Background
 
