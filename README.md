@@ -1,4 +1,4 @@
-# BCS_Classwork_JavaScript-Challenge
+# JavaScript-Challenge
 
 ![nasa.jpg](static/images/nasa.jpg)
 
